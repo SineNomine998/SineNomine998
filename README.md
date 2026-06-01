@@ -1,7 +1,5 @@
 <!-- <h2 align="center">Enes Yavuz Kozan</h2> -->
 <!-- <h3 align="center">Software Engineer • Problem Solver • Builder</h3> -->
-## Enes Yavuz Kozan
-
 ### 🕸️ Portfolio  
 <a href="https://portfolio.eykozan2004.workers.dev" target="_blank">
   <img src="https://img.shields.io/badge/ENTER%20THE%20PORTAL-000000?style=for-the-badge&logo=torbrowser&logoColor=white" />
