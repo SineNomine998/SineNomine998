@@ -1,5 +1,6 @@
-<h1 align="center">Enes Yavuz Kozan <s>(Sine Nomine)</s></h1>
-<h3 align="center">Software Engineer • Problem Solver • Builder</h3>
+<!-- <h2 align="center">Enes Yavuz Kozan</h2> -->
+<!-- <h3 align="center">Software Engineer • Problem Solver • Builder</h3> -->
+## Enes Yavuz Kozan
 
 ### 🕸️ Portfolio  
 <a href="https://portfolio.eykozan2004.workers.dev" target="_blank">
